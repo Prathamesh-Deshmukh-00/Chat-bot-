@@ -1,0 +1,8 @@
+Full Stack Developer Intern | Lithium India
+December 2024 - February 2025
+
+- Developed a responsive company website with category-wise product listings.
+- Implemented image upload with Multer and Cloudinary.
+- Built secure REST APIs for product data and customer inquiries.
+- Added restricted admin-only routes for product creation and query viewing.
+- Improved UX with form validation, animations, and interactive UI.

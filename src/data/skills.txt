@@ -1,0 +1,6 @@
+Languages: HTML, CSS, JavaScript, C++, Python, Java, SQL (MySQL)
+Databases: MongoDB, MySQL
+Frameworks: Node.js, Express.js, React.js, Tailwind CSS, Bootstrap, Flask, Appwrite
+Libraries & Tools: Mongoose, FFmpeg, MQTT, Multer, Socket.IO, Recharts, JWT, React Hook Form, Redux Toolkit, React Router, TinyMCE, Cypress
+DevOps & Platforms: Postman, Docker, Git, GitHub, AWS, n8n, Figma
+Others: ChatGPT, Cursor, LangChain, Data Modeling, Debugging, System Design, DSA, REST API, Typescript

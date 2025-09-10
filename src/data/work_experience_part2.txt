@@ -1,0 +1,14 @@
+Full Stack Developer | Lithium India
+March 2025 - Present
+
+Project: IoT-based Battery Management System (BMS)
+
+- Built frontend with React 19, Vite, Tailwind CSS, modular architecture.
+- Role-based routing and JWT auth for Admin & Dealer.
+- Real-time metrics with Socket.IO and GPS via React-Leaflet.
+- Built reusable UI components.
+- Visualized data with Recharts, conditional layouts.
+- Deployed frontend on Vercel.
+- Added Cypress for end-to-end testing.
+- Backend APIs for Admin and Dealer.
+- Integrated MQTT for ESP32 telemetry data.

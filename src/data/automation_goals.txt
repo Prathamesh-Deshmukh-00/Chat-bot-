@@ -1,0 +1,10 @@
+# Automation Goals
+
+- Automate as many tasks as possible in daily life and business.
+- Connect multiple AI tools for:
+  - Business automation
+  - Financial tracking
+  - Content creation
+  - Health and fitness monitoring
+- Use modern automation frameworks (LangChain, n8n, custom scripts).
+- Vision: "Let AI handle everything repetitive so I can focus on creativity and growth."
